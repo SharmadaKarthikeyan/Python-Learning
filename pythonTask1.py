@@ -1,4 +1,4 @@
-Name = "SHARMADA"
+Name = "Sharmada K"
 Age = 18
 College = "PSGR KCW"
 Course = "BSc CS with Cyber Security"
