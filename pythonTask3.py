@@ -1,0 +1,6 @@
+A = input("Enter a Name: ")
+B = int(input("Enter a Age: "))
+C = float(input("Enter a Height: "))
+print(A)
+print(B)
+print(C)
