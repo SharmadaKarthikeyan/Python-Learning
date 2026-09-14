@@ -1,0 +1,7 @@
+A = int(input("Enter A number: "))
+B = int(input("Enter B number: "))
+print("Addition: " , A+B)
+print("Subtraction: " , A-B)
+print("Multiplication: " , A*B)
+print("Division: " , A/B)
+print("Remainder: " , A%B)
